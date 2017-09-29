@@ -1,4 +1,4 @@
-# Meng Wang (王萌3)
+# Meng Wang (王萌)
 
 **Ph.D. Candidate** in **Computer Science**
 
