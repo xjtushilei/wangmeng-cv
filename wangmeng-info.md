@@ -20,6 +20,7 @@ Biomedical Knowledge Graphs, Health Data Analytics, SPARQL Query, Why-Not Questi
 
 **Publications**
 
+*   **Meng Wang**, Yihechen, Buyue Qian, Sen Wang, Guodong Long, Fei Wang. “Predicting Rich Drug-Drug Interactions via Biomedical Knowledge Graphs and Text Jointly Embedding.” in SDM, 2018. (CORE Rank A)
 *   **Meng Wang**, Mengyue Liu, Jun Liu, Sen Wang, Guodong Long, Buyue Qian. “Safe Medicine Recommendation via Medical Knowledge Graph Embedding.”
 *   **Meng Wang**, Jiaheng Zhang, Jun Liu, Wei Hu, Sen Wang and Wenqiang Liu. “PDD Graph: Bridging Electronic Medical Records and Biomedical Knowledge Graphs via Entity Linking.” in ISWC, 2017\. (CORE Rank A)
 *   **Meng Wang**, Jun Liu, Wenqiang Liu. “Faceted Exploring for Domain Knowledge over Linked Open Data.” in CIKM 2014\. (CORE Rank A)
