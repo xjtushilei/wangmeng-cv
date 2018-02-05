@@ -22,9 +22,9 @@ Biomedical Knowledge Graphs, Health Data Analytics, SPARQL Query, Why-Not Questi
 
 *   **Meng Wang**, Yihechen, Buyue Qian, Jun Liu, Sen Wang, Guodong Long, Fei Wang. “Predicting Rich Drug-Drug Interactions via Biomedical Knowledge Graphs and Text Jointly Embedding.” in SDM, 2018. (CORE Rank A)
 *   **Meng Wang**, Mengyue Liu, Jun Liu, Sen Wang, Guodong Long, Buyue Qian. “Safe Medicine Recommendation via Medical Knowledge Graph Embedding.”
-*   **Meng Wang**, Jiaheng Zhang, Jun Liu, Wei Hu, Sen Wang and Wenqiang Liu. “PDD Graph: Bridging Electronic Medical Records and Biomedical Knowledge Graphs via Entity Linking.” in ISWC, 2017\. (CORE Rank A)
+*   **Meng Wang**, Jiaheng Zhang, Jun Liu, Wei Hu, Sen Wang, Xue Li and Wenqiang Liu. “PDD Graph: Bridging Electronic Medical Records and Biomedical Knowledge Graphs via Entity Linking.” in ISWC, 2017\. (CORE Rank A)
 *   **Meng Wang**, Jun Liu, Wenqiang Liu. “Faceted Exploring for Domain Knowledge over Linked Open Data.” in CIKM 2014\. (CORE Rank A)
-*   **Meng Wang**, Weitong Chen, Jun Liu. “Answering Why-Not Questions on Semantic Multimedia Queries”. in Multimedia Tools and Applications, (2017): 1-25..
+*   **Meng Wang**, Weitong Chen, Jun Liu, Xue Li and Sen Wang. “Answering Why-Not Questions on Semantic Multimedia Queries”. in Multimedia Tools and Applications, (2017): 1-25..
 *   **Meng Wang**, Jun Liu, Bifan Wei. “Answering Why-Not Questions on SPARQL queries.” in Knowledge and Information System
 *   **Meng Wang**, Jun Liu, Ruijie Wang. “Answering Why-Not Questions on Geo-Social SPARQL Queries.” in WWW J.
 *   Siyu Yao, Jun Liu, **Meng Wang**, Qinghua Zheng. "ANNA: Answering Why-Not Questions for SPARQL." in ISWC 2015.
