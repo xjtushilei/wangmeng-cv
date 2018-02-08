@@ -26,7 +26,6 @@ Biomedical Knowledge Graphs, Health Data Analytics, SPARQL Query, Why-Not Questi
 *   **Meng Wang**, Jun Liu, Wenqiang Liu. “Faceted Exploring for Domain Knowledge over Linked Open Data.” in CIKM 2014\. (CORE Rank A)
 *   **Meng Wang**, Weitong Chen, Jun Liu, Xue Li and Sen Wang. “Answering Why-Not Questions on Semantic Multimedia Queries”. in Multimedia Tools and Applications, (2017): 1-25..
 *   **Meng Wang**, Jun Liu, Bifan Wei. “Answering Why-Not Questions on SPARQL queries.” in Knowledge and Information System
-*   **Meng Wang**, Jun Liu, Ruijie Wang. “Answering Why-Not Questions on Geo-Social SPARQL Queries.” in WWW J.
 *   Siyu Yao, Jun Liu, **Meng Wang**, Qinghua Zheng. "ANNA: Answering Why-Not Questions for SPARQL." in ISWC 2015.
 *   Wenqiang Liu, Jun Liu, **Meng Wang**, Qinghua Zheng, Wei Zhang, Lingyun Song and Siyu Yao. “Faceted Fusion of RDF Data.” Information Fusion, 2015, 23, p16-24.
 *   Yuanhao Zheng, Bifan Wei, Jun Liu, **Meng Wang**, Weitong Chen, Bei Wu and Yihe Chen. “Quality Prediction of Newly Proposed Questions in CQA by Leveraging Weakly Supervised Learning.” in ADMA, 2017.
